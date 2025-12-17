@@ -86,7 +86,7 @@
                 <div class="flex-1 bg-[#1C1C1C] relative p-6 font-mono text-xs overflow-hidden">
                     <div class="text-gray-400 space-y-1">
                         <div><span class="text-purple-400">import</span> <span class="text-blue-400">React</span> <span class="text-purple-400">from</span> <span class="text-green-400">'react'</span>;</div>
-                        <div><span class="text-purple-400">import</span> <span class="text-blue-400">{ useState }</span> <span class="text-purple-400">from</span> <span class="text-green-400">'react'</span>;</div>
+                        <div><span class="text-purple-400">import</span> <span class="text-blue-400">{'{ useState }'}</span> <span class="text-purple-400">from</span> <span class="text-green-400">'react'</span>;</div>
                         <div class="h-3"></div>
                         <div><span class="text-purple-400">function</span> <span class="text-yellow-400">App</span>() {`{`}</div>
                         <div class="pl-4"><span class="text-purple-400">const</span> [count, setCount] = <span class="text-blue-400">useState</span>(<span class="text-orange-400">0</span>);</div>
